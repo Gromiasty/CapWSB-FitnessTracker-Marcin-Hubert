@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Repository interface for managing Training entities.
  */
-interface TrainingRepository extends JpaRepository<Training, Long> {
+public interface TrainingRepository extends JpaRepository<Training, Long> {
 
     /**
      * Finds all training sessions for a specific user.
