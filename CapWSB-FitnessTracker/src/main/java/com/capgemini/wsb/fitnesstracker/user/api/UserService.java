@@ -1,6 +1,5 @@
 package com.capgemini.wsb.fitnesstracker.user.api;
 
-import java.util.List;
 import java.util.Optional;
 
 /**
